@@ -33,7 +33,7 @@ Start the server
 
 ```bash
   npm run start (for frontend & server)
-  server      ||  frontend
+  server  &  frontend
 ```
 
 
