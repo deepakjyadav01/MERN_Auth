@@ -29,15 +29,18 @@ Install dependencies
   npm install
 ```
 
-Start the server
+Start the frontend server
 
 ```bash
-  npm run start (for frontend & server)
-  server  &  frontend
+  npm run start 
+```
+Start the Backend server
+
+```bash
+  node app.js || nodemon app.js
 ```
 
 
-   
 ## Tech Stack
 **Client:** React.js
 
